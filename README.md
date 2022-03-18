@@ -1,4 +1,4 @@
-# Movie Card Library CRUD 🎥🎞️
+# ReactJS - Movie Card Library CRUD 🎥🎞️
 
 # Contexto
 Essa aplicação consiste em um site com informações sobre filmes. É possível conferir detalhes sobre os filmes, editar, deletar e inserir novos filmes na coleção.
